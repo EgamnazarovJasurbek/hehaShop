@@ -8,7 +8,7 @@
                 <div class="col-lg-12">
                     <div class="inner-content">
                         <h2>Bizning kompaniya</h2>
-                        <span>Awesome, clean &amp; creative HTML5 Template</span>
+                        <span>hello world &amp; creative HTML5 Template</span>
                     </div>
                 </div>
             </div>
